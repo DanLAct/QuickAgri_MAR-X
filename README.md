@@ -1,6 +1,6 @@
 # Code to accompany the paper ‘Projection of climate and technology impacts on crops key to food security'
 
-# MAR-X model
+## MAR-X model
 
 A parsimonious multivariate autoregressive model to project the impact of climate change on agricultural production, with a time-dependent intercept term to model the changing rate of technological advancement.
 
