@@ -1,4 +1,4 @@
-# Code to accompany the paper ‘Projection of climate and technology impacts on crops key to food security'
+# Code to accompany the paper ‘Machine learning projection of climate and technology impacts on crops key to food security'
 
 ## MAR-X model
 
